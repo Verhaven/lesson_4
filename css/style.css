@@ -1,0 +1,241 @@
+
+.body{
+    width: 100%;
+    font-family: "larsseit";
+}
+.title {
+    margin-top: 20px; 
+}
+.vostok {
+    margin-left: 20px;
+    
+}
+.design {
+    margin-left: 1145px;
+}
+.contact {
+    margin-left: 74px;
+}
+header .design, .contact {
+    font-family: "Roboto";
+    color: rgb(160, 12, 44);
+}
+/* ......................................... */
+.hi {
+    margin-left: 20px;
+    margin-top: 150px;
+      font-family: 'larsseit';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 40px;
+      line-height: 44px;
+      color: #36087b; 
+}
+.present {
+    width: 70%;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #260233;    
+}
+.minitext{
+    margin-left: 20px;
+    margin-top: 150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    letter-spacing: 0.56px;
+    color: #333333;
+}
+.main{
+    margin-top: 50px;
+}
+.textgrsfing {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 56px;
+    line-height: 62px;
+    color: #141414;
+
+}
+.text-item1 {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #141414;
+
+}
+.text-item2 {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    color: #141414;
+ 
+}
+.text-item3{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #9611e3;
+}
+.foto{
+    display: inline-block;
+}
+.imgmyvieu {
+    position: absolute; 
+    width: 40%;
+    right: 150px;
+    top: 300px;
+}
+.text{
+    margin-top: 70px;
+    width: 40%;
+    display: inline-block; 
+}
+.frame{
+    margin-top: 170px;
+    margin-left: 20px;  
+}
+.frame1{
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 90%; 
+}
+.clients-title{
+    margin-top: 80px;
+    font-family: 'DynaPuffo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 62px;
+    text-align: center;
+    color: #926209;
+}
+.imgclient{
+margin-left: 60px;
+}
+.services {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.imgredisign1 {
+    width: 90%;
+    margin-top: 30px;
+}
+.fine-title1 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.fine-link1 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.imgredisign2 {
+    width: 90%;
+    margin-top: 30px;
+}
+.fine-title2 {
+    margin-top: 30px;
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.fine-link2 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.imgredisign3 {
+    width: 90%;
+    margin-top: 30px;
+}
+.fine-title3 {
+    margin-top: 30px;
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.fine-link3 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.imgredisign4 {
+    width: 90%;
+    margin-top: 30px;
+}
+.fine-title4 {
+    margin-top: 30px;
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+.fine-link4 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    letter-spacing: 0.56px;
+    color: #141414;
+}
+section .fine-title1, .fine-title2, .fine-title3, .fine-title4{
+    font-family: 'Roboto';
+    color: rgb(195, 9, 233);
+}
+section .fine-link1, .fine-link2, .fine-link3, .fine-link4{
+    font-family: 'larsseit';
+    color: rgb(7, 78, 137);   
+}
+.footer{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 20px;   
+}
